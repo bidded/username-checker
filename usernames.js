@@ -35,5 +35,4 @@ async function checkAllUsernames() {
     }
 }
 
-// Call the main function
 checkAllUsernames();
